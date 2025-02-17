@@ -1,16 +1,17 @@
-## Hi there 👋
+## Olá pessoal👋
 
-<!--
-**Sampaiorony/Sampaiorony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 Atualmente trabalho com o projeto Descubra seu amigo secreto!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-O desafio finalizado fez parte do curso "Formação Iniciante em Programação", curso que foi promovido por uma parceria entre Alura e ONE (Oracle Next Education). Neste curso, fui capaz de afiar o meu conhecimento nas tecnologias principais e de entrada para o mundo do desenvolvimento Web: HTML, CSS e JavaScript
+
+Contudo, o próprio desafio já vem com o arquivo de CSS e o arquivo de HTML já pronto, a questão era implementar as funcionalidades que o projeto deveria ter, como:
+
+Funcionalidades
+
+Campo de entrada para adicionar nomes.
+Botão "Adicionar", que insere os nomes na lista.
+Exibição dinâmica dos nomes aumentados.
+Botão "Sortear Amigo", que seleciona um nome aleatoriamente.
+Exibição do nome sorteado na tela.
 -->
