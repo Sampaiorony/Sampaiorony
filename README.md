@@ -1,17 +1,11 @@
-## Olá pessoal👋
+## Olá! Sejam bem vindos ao meu GitHub!
 
 
-- 🔭 Atualmente trabalho com o projeto Descubra seu amigo secreto!
+- Estudante de Data Science Alura Oracle Next Education.
+- Entusiasta por dados e apaixonado por tecnologia.
+- Sempre procuro conhecimento e tento me aprimorar cada vez mais.
+- Formado em Administração de Empresas com ênfase em Transporte e Logística.
+- Experiência de mais de 20 anos em Epresas de Logística e Comércio exterior.
+  
 
--O desafio finalizado fez parte do curso "Formação Iniciante em Programação", curso que foi promovido por uma parceria entre Alura e ONE (Oracle Next Education). Neste curso, fui capaz de afiar o meu conhecimento nas tecnologias principais e de entrada para o mundo do desenvolvimento Web: HTML, CSS e JavaScript
-
-Contudo, o próprio desafio já vem com o arquivo de CSS e o arquivo de HTML já pronto, a questão era implementar as funcionalidades que o projeto deveria ter, como:
-
-Funcionalidades
-
-Campo de entrada para adicionar nomes.
-Botão "Adicionar", que insere os nomes na lista.
-Exibição dinâmica dos nomes aumentados.
-Botão "Sortear Amigo", que seleciona um nome aleatoriamente.
-Exibição do nome sorteado na tela.
 -->
